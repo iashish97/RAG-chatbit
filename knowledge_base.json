@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "question": "How do I reset my student portal password?",
+        "answer": "Go to portal.university.edu and click 'Forgot Password'. Enter your student ID and a reset link will be sent to your university email. The link expires in 30 minutes. If you cannot access your email, visit the IT Service Desk with your student ID card."
+    },
+    {
+        "id": 2,
+        "question": "How do I register for courses?",
+        "answer": "Course registration is done through the student portal under 'Academics > Register for Classes'. Registration opens on the date shown in your registration time ticket. You must clear any holds on your account before you can register."
+    },
+    {
+        "id": 3,
+        "question": "What is the deadline to add or drop a course?",
+        "answer": "Students can add or drop courses without penalty within the first two weeks of the semester. Dropping between week 3 and week 8 results in a 'W' grade on the transcript. No drops are allowed after week 8."
+    },
+    {
+        "id": 4,
+        "question": "How do I pay my tuition fees?",
+        "answer": "Tuition can be paid online through the portal under 'Finance > Pay Fees' using debit card, credit card, or net banking. You can also pay in person at the Accounts Office (Admin Block, Room 104) by bank draft. Payments are reflected within 24 hours."
+    },
+    {
+        "id": 5,
+        "question": "Can I pay my tuition in installments?",
+        "answer": "Yes. Students can opt for a two-installment plan: 60% at the start of the semester and 40% by the end of week 6. Apply through the Accounts Office before the first payment deadline. A late fee of 2% applies to missed installments."
+    },
+    {
+        "id": 6,
+        "question": "How do I apply for a scholarship?",
+        "answer": "Scholarship applications open each July on the Financial Aid page of the portal. You need your previous semester's marksheet, an income certificate, and a statement of purpose. Results are announced within four weeks of the closing date."
+    },
+    {
+        "id": 7,
+        "question": "How do I get an official transcript?",
+        "answer": "Request transcripts via the Registrar's Office page on the portal under 'Documents > Transcript Request'. Each copy costs 200 rupees. Processing takes 5 working days. Expedited processing (2 working days) costs an additional 100 rupees."
+    },
+    {
+        "id": 8,
+        "question": "How do I connect to the campus Wi-Fi?",
+        "answer": "Select the 'UniNet' network and sign in with your student ID and portal password. For devices without a browser such as consoles, register the device MAC address at the IT Service Desk. If you face issues, forget the network and reconnect."
+    },
+    {
+        "id": 9,
+        "question": "What are the library opening hours?",
+        "answer": "The Central Library is open Monday to Saturday from 8:00 AM to 10:00 PM and Sunday from 10:00 AM to 6:00 PM. During exam weeks it stays open until midnight. It is closed on public holidays."
+    },
+    {
+        "id": 10,
+        "question": "How many books can I borrow from the library and for how long?",
+        "answer": "Undergraduate students can borrow up to 5 books for 14 days. Postgraduate students can borrow up to 8 books for 21 days. Books can be renewed twice online if no one else has reserved them. The late fine is 5 rupees per day per book."
+    },
+    {
+        "id": 11,
+        "question": "How do I get a student ID card replacement?",
+        "answer": "If your ID card is lost or damaged, report it to the Student Affairs Office (Admin Block, Room 112) and pay a replacement fee of 300 rupees. A new card is issued within 3 working days. Bring a government ID and a passport-size photo."
+    },
+    {
+        "id": 12,
+        "question": "How do I apply for a hostel room?",
+        "answer": "Hostel applications are submitted via the portal under 'Campus Life > Hostel Application' before June 30 for the autumn semester. Rooms are allotted based on distance from home and academic merit. Allotment lists are published two weeks after the deadline."
+    },
+    {
+        "id": 13,
+        "question": "Who do I contact for academic advising?",
+        "answer": "Each student is assigned an academic advisor from their department. You can find your advisor's name under 'Academics > My Advisor' in the portal and book a slot through the same page. Advising is also available via the helpdesk email advising@university.edu."
+    },
+    {
+        "id": 14,
+        "question": "How do I apply for an exam re-evaluation?",
+        "answer": "Submit a re-evaluation request on the portal within 7 days of result declaration under 'Exams > Re-evaluation'. The fee is 500 rupees per paper. Results of re-evaluation are published within 15 working days, and the better of the two scores is retained."
+    },
+    {
+        "id": 15,
+        "question": "What are the helpdesk contact details and working hours?",
+        "answer": "The University Helpdesk is in the Admin Block, Room 101, open Monday to Friday 9:00 AM to 5:00 PM. Email helpdesk@university.edu or call 0183-555-0100. Emails are answered within one working day."
+    }
+]

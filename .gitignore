@@ -1,0 +1,26 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Streamlit secrets & config
+.streamlit/secrets.toml
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
